@@ -14,12 +14,16 @@ cin>>asientosO;
 
 totalAsientos=asientosD+asientosO;
 
-porcetajeD=(asientosD*100)/totalAsientos;
-porcetajeO=(asientosO*100)/totalAsientos;
+if(asientosD>0){
+    porcetajeD=(asientosD*100)/totalAsientos;
+    cout<<"Porcentaje de asientos Disponibles: "<<porcetajeD<<endl;
+}
+if(asientosO>0){
+    porcetajeO=(asientosO*100)/totalAsientos;
+    cout<<"Porcentaje de asientos Ocupados: "<<porcetajeO;
+}
 
-cout<<endl;
-cout<<"Porcentaje de asientos Disponibles: "<<porcetajeD<<endl;
-cout<<"Porcentaje de asientos Ocupados: "<<porcetajeO;
+
 
 cout<<endl;
 system("pause");

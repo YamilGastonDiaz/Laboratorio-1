@@ -16,15 +16,19 @@ cin>>alfajorC;
 
 totalAlfajores=alfajorA+alfajorB+alfajorC;
 
-porcentajeA=(float)alfajorA*100/totalAlfajores;
-porcentajeB=(float)alfajorB*100/totalAlfajores;
-porcentajeC=(float)alfajorC*100/totalAlfajores;
+if(alfajorA>0){
+    porcentajeA=(float)alfajorA*100/totalAlfajores;
+    cout<<"Porcentaje Alfajor A: "<<porcentajeA<<endl;
+}
+if(alfajorB>0){
+    porcentajeB=(float)alfajorB*100/totalAlfajores;
+    cout<<"Porcentaje Alfajor B: "<<porcentajeB<<endl;
+}
+if(alfajorC>0){
+    porcentajeC=(float)alfajorC*100/totalAlfajores;
+    cout<<"Porcentaje Alfajor C: "<<porcentajeC;
 
-cout<<endl;
-cout<<"Porcentaje Alfajor A: "<<porcentajeA<<endl;
-cout<<"Porcentaje Alfajor B: "<<porcentajeB<<endl;
-cout<<"Porcentaje Alfajor C: "<<porcentajeC;
-
+}
 
 cout<<endl;
 system("pause");
