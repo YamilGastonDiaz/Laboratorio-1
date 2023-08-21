@@ -2,11 +2,12 @@
 #include <cstdlib>
 using namespace std;
 
-
 int main(){
-const float alquiler=1000;
-const float valorCarameloP=0.5;
-int mantenimiento, presupuestoI, cantCaramelo;
+
+float alquiler=10000;
+float valorCarameloP=0.5;
+float mantenimiento, presupuestoI;
+int cantCaramelo;
 float costoCaramelo, costoMantenimiento;
 float total;
 
@@ -20,14 +21,13 @@ costoMantenimiento=cantCaramelo/1000*5000;
 
 total=costoCaramelo+costoMantenimiento+alquiler;
 
+cout<<"total: "<<total<<endl;
+
 if(presupuestoI>=total){
-    cout<<"El presupuesto es suficiente para cubrir los costos de: "<<total;
+    cout<<"El presupuesto es suficiente para cubrir los costos de: "<<presupuestoI;
 }else{
-    cout<<"El presupuesto no es suficiente, necesita un credito de: "<<total-presupuestoI;
+    cout<<"El presupuesto no es suficiente, necesita un credito de: "<<total-presupuestoI+presupuestoI;
 }
-
-
-
 
 cout<<endl;
 system("pause");
