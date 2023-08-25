@@ -26,7 +26,7 @@ cout<<"total: "<<total<<endl;
 if(presupuestoI>=total){
     cout<<"El presupuesto es suficiente para cubrir los costos de: "<<presupuestoI;
 }else{
-    cout<<"El presupuesto no es suficiente, necesita un credito de: "<<total-presupuestoI+presupuestoI;
+    cout<<"El presupuesto no es suficiente, necesita un credito de: "<<total-presupuestoI;
 }
 
 cout<<endl;
