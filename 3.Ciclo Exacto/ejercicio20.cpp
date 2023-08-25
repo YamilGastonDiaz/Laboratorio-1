@@ -50,9 +50,7 @@ for(i = 0; i < tam; i++){
     }
 }
 totalTarjetas=acuTarjetaA+acuTarjetaR;
-if(totalTarjetas>0){
-    promedioTarjetas=(float)totalTarjetas/tam;
-}
+promedioTarjetas=(float)totalTarjetas/tam;
 
 if(racha>rachaPconGol){
     rachaPconGol=racha;
