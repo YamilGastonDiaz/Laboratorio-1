@@ -11,8 +11,10 @@ cin>>num1;
 cout<<"Ingrese el segundo numero: ";
 cin>>num2;
 
-if(num1%num2==0){
+if(num1 > num2 && num1%num2==0){
     cout<<"El primer numero es multiplo del segundo.";
+}else{
+    cout<<"El primer numero no es multiplo del segundo."
 }
 
 
