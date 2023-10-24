@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1697586922 source:c:\users\qqmelo\desktop\laboratorio 1\7.funciones a\guia7\ejercicio1.cpp
+	<iostream>
+	<cstdlib>
+	"header.h"
+
+1697682108 c:\users\qqmelo\desktop\laboratorio 1\7.funciones a\guia7\header.h
+
+1697682905 source:c:\users\qqmelo\desktop\laboratorio 1\7.funciones a\guia7\main.cpp
+	<iostream>
+	<cstdlib>
+	"header.h"
+
+1697587435 source:c:\users\qqmelo\desktop\laboratorio 1\7.funciones a\guia7\ejercicio2.cpp
+	<iostream>
+	<cstdlib>
+	"header.h"
+
+1697588084 source:c:\users\qqmelo\desktop\laboratorio 1\7.funciones a\guia7\ejercicio3.cpp
+	<iostream>
+	<cstdlib>
+	"header.h"
+
+1697588702 source:c:\users\qqmelo\desktop\laboratorio 1\7.funciones a\guia7\ejercicio4.cpp
+	<iostream>
+	<cstdlib>
+	"header.h"
+
+1697589579 source:c:\users\qqmelo\desktop\laboratorio 1\7.funciones a\guia7\ejercicio5.cpp
+	<iostream>
+	<cstdlib>
+	"header.h"
+
+1697590846 source:c:\users\qqmelo\desktop\laboratorio 1\7.funciones a\guia7\ejercicio6.cpp
+	<iostream>
+	<cstdlib>
+	"header.h"
+
+1697677663 source:c:\users\qqmelo\desktop\laboratorio 1\7.funciones a\guia7\ejercicio7.cpp
+	<iostream>
+	<cstdlib>
+	"header.h"
+
+1697640010 source:c:\users\qqmelo\desktop\laboratorio 1\7.funciones a\guia7\ejercicio8.cpp
+	<iostream>
+	<cstdlib>
+	"header.h"
+
+1697640055 source:c:\users\qqmelo\desktop\laboratorio 1\7.funciones a\guia7\ejercicio9.cpp
+	<iostream>
+	<cstdlib>
+	"header.h"
+
+1697654935 source:c:\users\qqmelo\desktop\laboratorio 1\7.funciones a\guia7\ejercicio10.cpp
+	<iostream>
+	<cstdlib>
+	"header.h"
+
+1697682548 source:c:\users\qqmelo\desktop\laboratorio 1\7.funciones a\guia7\ejercicio11.cpp
+	<iostream>
+	<cstdlib>
+	"header.h"
+
+1697660390 source:c:\users\qqmelo\desktop\laboratorio 1\7.funciones a\guia7\ejercicio12.cpp
+	<iostream>
+	<cstdlib>
+	"header.h"
+
+1697681626 source:c:\users\qqmelo\desktop\laboratorio 1\7.funciones a\guia7\ejercicio13.cpp
+	<iostream>
+	<cstdlib>
+	"header.h"
+
+1697682874 source:c:\users\qqmelo\desktop\laboratorio 1\7.funciones a\guia7\ejercicio14.cpp
+	<iostream>
+	<cstdlib>
+	"header.h"
+

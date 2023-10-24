@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Guia7" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Guia7" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Guia7" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="ejercicio1.cpp" />
+		<Unit filename="ejercicio10.cpp" />
+		<Unit filename="ejercicio11.cpp" />
+		<Unit filename="ejercicio12.cpp" />
+		<Unit filename="ejercicio13.cpp" />
+		<Unit filename="ejercicio14.cpp" />
+		<Unit filename="ejercicio2.cpp" />
+		<Unit filename="ejercicio3.cpp" />
+		<Unit filename="ejercicio4.cpp" />
+		<Unit filename="ejercicio5.cpp" />
+		<Unit filename="ejercicio6.cpp" />
+		<Unit filename="ejercicio7.cpp" />
+		<Unit filename="ejercicio8.cpp" />
+		<Unit filename="ejercicio9.cpp" />
+		<Unit filename="header.h" />
+		<Unit filename="main.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
